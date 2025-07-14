@@ -16,11 +16,3 @@ File handling (read/write/merge)
 Structures and dynamic memory (malloc, free)
 Sorting algorithms (like Bubble Sort)
 Common logic-based programs (prime number, factorial, Fibonacci, etc.)
-# 🗂 Program Structure
-To keep the repository clean and organized, the 40 programs are grouped into three main files:
-
-File Name	Description
-15_beginner_programs_c	Basic programs (I/O, operators, conditionals)
-15_intermediate_programs_c	Loops, functions, recursion, strings, pointers
-10_advanced_programs_c	Arrays, sorting, structures, files, memory alloc
-Each program is written clearly and separately within those files, and you can scroll or search to find any specific one.
